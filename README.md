@@ -1,2 +1,2 @@
 # metabase
-metabase 0.1
+metabase 0.2
